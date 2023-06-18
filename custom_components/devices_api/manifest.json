@@ -1,0 +1,14 @@
+{
+    "domain": "devices_api",
+    "name": "Devices API",
+    "codeowners": [
+        "@darki73"
+    ],
+    "dependencies": [
+        "http"
+    ],
+    "documentation": "https://github.com/darki73/ha-devices-api",
+    "config_flow": true,
+    "requirements": [],
+    "version": "0.0.1"
+}

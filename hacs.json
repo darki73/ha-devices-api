@@ -1,0 +1,6 @@
+{
+    "country": ["RU", "AE"],
+    "homeassistant": "2023.2",
+    "name": "Devices API",
+    "render_readme": true
+  }
